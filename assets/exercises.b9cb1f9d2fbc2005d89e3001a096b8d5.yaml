@@ -1,0 +1,348 @@
+dry:
+  - name: Depth Walks
+    people: 2, 3
+    speed: 2
+    time: 15
+    description: "Buddy pairs, outdoor. 3 candle blows, partial lung hold, walk to halfway point, turn and walk back. Buddy meets you on return, guides surface protocol. Swap roles, 3 times each."
+    tips: "Turn clean and crisp. Change direction and lung emptiness each time so you can't compare. Check your halfway feeling — too easy or didn't make it back means wrong halfway point."
+  - name: Zany Walk
+    speed: 4
+    time: 14
+    description: "Group, outdoor. Walk fast continuously (HR ~105/min). 3 candle blows, partial lung hold, walk 12 paces, recovery breaths, repeat. Min 12 min, ideally 14 min. Extend paces if easy."
+    tips: "First 6-7 min feels erratic, then body adapts and dive reflex kicks in. Nose may run as blood shift starts. This exercise kick-starts your mammalian dive reflex."
+  - name: Pain Walks
+    people: 2, 3
+    speed: 4
+    time: 12
+    description: "Buddy pairs, outdoor. Both walk fast continuously. Person A: candle blows, partial lung hold, walk 12-15 paces, recovery breaths. Switch to Person B. Repeat to end of walk."
+    tips: "Increases lactic acid tolerance. You should feel the 'burn' or tightness in legs and/or chest. Extend paces if 12-15 is too easy."
+  - name: Oxy Walks
+    people: 2, 3
+    speed: 3
+    time: 15
+    description: "Buddy pairs in a group. Coach keeps time. First person in each pair does 3 consecutive holds, then swap roles."
+    tips: ""
+  - name: Pippin Walks
+    speed: 2
+    time: 20
+    description: "Outdoor exercise. Solo walk with breath holds at intervals."
+    tips: "Ask yourself: why did you stop where you stopped in the first walk if you can walk further with longer static holds?"
+  - name: Solomon Walks
+    people: 2, 3
+    speed: 2
+    time: 25
+    description: "Buddy pairs. Person A does 3 consecutive holds with increasing static times (30s, 45s, 1min) then walks till needing to breathe. Person B safety-walks beside and marks stopping points. Swap roles. Needs min 20 min."
+    tips: "If you only have 30 min for the dry session, start this immediately — it takes a long time to complete. 1st: 1min breathup, 30s static, walk. 2nd: 1min breathup, 45s static, walk 3 steps further. 3rd: 2min breathup, 1min static, walk 3 steps further."
+  - name: Crazy Tables
+    speed: 3
+    time: 10
+    description: "Group, indoor. Sit in a circle (or solo). Candle blows, empty lung hold 30 sec, then 'sip' air every 15 sec until full lung or end of hold. Coach cues sips."
+    tips: "CO2 tolerance training. The gradual sipping builds tolerance while maintaining control."
+  - name: Halfway Holds
+    speed: 1
+    time: 15
+    description: "Group, indoor. Use NTX app. Sit eyes closed, breathe normally through nose. Notice where passive inhale/exhale becomes active. Stop briefly at that halfway point by will. Change breathing patterns (nose/mouth combinations). End with warm palms over eyes."
+    tips: "Most important breath hold exercise. You stop at halfway because YOU decide to — it's your will that stops the airflow. Notice the smooth breath like a silken thread, no pose at top or bottom."
+  - name: Minute Holds
+    speed: 3
+    time: 15
+    description: "Group, indoor. Sit with straight back, eyes closed. Candle blows, hold 1 min, recovery breaths, candle blows, hold 1 min. Repeat 6-10 holds. Coach counts down and guides."
+    tips: "If full lung holds are too easy, try with partial lungs."
+  - name: Jakanory
+    speed: 3
+    time: 15
+    description: "Group, indoor. Need a book. Candle blows, reader takes full breath and reads aloud. Everyone else holds partial lung until reader stops (must stop mid-sentence, not at a full stop). Take turns reading round the circle."
+    tips: ""
+  - name: ETT Training
+    speed: 2
+    time: 10
+    description: "Group, indoor. Need balloons (Equalisation Training Tools). Breath out fully, pinch nose, unpack using throat muscles to bring air from lungs to mouth, squeeze into balloon with cheeks. Belly must stay relaxed."
+    tips: "Equalisation happens in 2 stages: 1) Use air in mouth to equalise. 2) Bring up air from lungs to top up, then equalise. Don't use diaphragm — only throat muscles for the unpacking noise."
+  - name: Bombilla
+    speed: 2
+    time: 10
+    description: ""
+    tips: ""
+  - name: Bed time stretch/ Screaming stretch
+    speed: 1
+    time: 5
+    description: "Stand, exhale fully folding till empty, upright, shrug shoulders, belly out 3x — diaphragm down creates chest vacuum. Bend forwards, inhale gently, come up slow. Repeat twice, add throat stretch 3rd time. Screaming stretch: exhale standing, scream inwards, close glottis, belly out 3x, release."
+    tips: "Do at least once daily to gain chest flexibility. The vacuum created by bringing the diaphragm down stretches the chest inwards."
+
+warmup:
+  - name: Standard Warm Up
+    people: 3, 4, 5, 6, 7
+    speed: 3
+    time: 10
+    description: "Group of 3-7. 2 no-fins lengths first. Then 1 surface + 1 apnea length. Rest between: tumble turn / 3 candle blows / max 10 sec. Make it harder if easy (faster, butterfly, less wait). Should make full length only 40% of the time."
+    tips: "Timing your start is key. Group of 7: go when person ahead reaches flag. 6-5: when they're between flag and wall. 4: when they reach wall. 3: when person behind you returns safely. Alternating clockwise/anticlockwise groups swim side by side safely."
+  - name: Pyramid Lengths
+    people: 2
+    speed: 3
+    time: 10
+    description: "Buddy pairs. Series of apnea lengths with decreasing then increasing recovery breaths: 6, 5, 4, 5, 6. Recovery breaths include candle blows. Max 9, min 2 breaths. Buddy counts and announces at each turn."
+    tips: "Should be challenging — 25-50% of the time you'll fail. Reflect and learn. Aim to do all 6 lengths without breaks one day."
+  - name: Timed Tops
+    people: 2
+    speed: 3
+    time: 15
+    description: "Buddy pairs. Choose target distance, divide into chunks with set breaks. E.g. 4x25m with 15 sec recovery between each. Min 100m total. Can use uneven chunks (25m, 50m, 25m). Buddy gives countdown at every turn."
+    tips: "Awareness exercise. If planned breaks were too short or too long, your pre-exercise assessment was wrong. Aim for shorter breaks over time until you can swim the whole distance in one go."
+  - name: Soft Top
+    people: 2
+    speed: 2
+    time: 10
+    description: "Buddy pairs. Long apnea swim based on diver's ability, each with an adjutant. Breathe up before TOP. AIDA countdown (3 min to TOP). Diver submerges within 30 sec of TOP. Adjutant calls surface protocol steps: Breathe, Mask, Nose Clip, Goggles, Signal, Say I am OK."
+    tips: "Best at session start — forces self-awareness without warmup bias. If too easy or you don't make it, you assessed wrong. Never stop at the end wall — put in a turn and come up after."
+  - name: Evil Buddy
+    people: 2, 3
+    speed: 2
+    time: 10
+    description: "Buddy pairs. Buddy 1 swims 1 length apnea really slowly. Buddy 2 walks parallel on surface, partial/empty lung. Switch at end. Repeat 3 times each minimum."
+    tips: "Person walking on surface should aim to walk a few steps farther every time."
+  - name: Friendly Buddy
+    people: 2, 3
+    speed: 4
+    time: 10
+    description: "Buddy pairs. Buddy 1 swims 1 length apnea fast. Buddy 2 walks parallel on surface, partial/empty lung. QUICK switch at end. Repeat 3 times each minimum."
+    tips: "Quick turn around is the key — fast transitions keep the pressure on."
+  - name: Flatlining
+    speed: 2
+    time: 15
+    description: "Group. One line (Flatlining) or 2-3 lines (Carnage). Repeated apnea toypedo lengths, passing toypedo left-to-right then right-to-left as one line. Follow pace of person holding toypedo. Rest shortens from 15-20 sec to 5 sec until almost everyone drops out."
+    tips: "Lengths should be slow and relaxing — learn to go into 'sleep' mode. Sleep, wake to check toypedo position, sleep again. At least 10 lengths as warmup, fewer at end of session. Push up goggles to signal you're skipping a line."
+
+wet:
+  # Energetic exercises
+  - name: Toypedo Double
+    people: 4, 5, 6
+    speed: 4
+    time: 20
+    description: "Group of 4-6. 2 swim sub-surface side by side passing toypedo. At each end one drops out, one joins. Most do 2 lengths per turn. Hold V sign if doing double (no stop at far end). If you don't make a length, surface and swim rest face up."
+    tips: "Cognitive loading exercise. 'Double' means one length, turn and some — not two full lengths. Robust swimming means handling cognitive tasks while apnea. Train hard so real dives feel easy."
+  - name: Toypedo Triple
+    people: 6, 7
+    speed: 4
+    time: 25
+    description: "Group of 6-7. 3 swim sub-surface side by side passing toypedo. Shallow end starters do double+single, deep end starters do single+double. At each end one drops, one joins. Most do 3 lengths per turn."
+    tips: "Shallow end always does double (no surfacing at deep end). Deep end always does single. Don't attempt a triple — it forces another swimmer into a triple too."
+  - name: Carnage Flatlining
+    speed: 4
+    time: 15
+    description: "Group, 2-3 lines. Repeated apnea toypedo lengths passing toypedo along the line. Lines cross each other in carnage version. If you miss a length, swim rest face up and skip next line. Rest shortens from 15-20 sec to 5 sec."
+    tips: "Slow and relaxed lengths — go into 'sleep' mode. Push up goggles to signal skipping. At least 10 lengths as warmup, fewer at end of session."
+  - name: Stikeez
+    people: 3, 5
+    speed: 4
+    time: 15
+    description: "Group of 3 or 5. Swimmer 1 swims out with stikeez, places it on black line, returns. Swimmer 2 retrieves it, returns. Swimmer 3 places a new one. Roles rotate naturally with odd numbers. Come back off the black line."
+    tips: "Placer must return in one breath — you decide your own distance (awareness). Retriever can surface if needed — distance was set by someone else. Step up: doubles, jiggles, no fins. Use rings/bricks on concrete floors."
+  - name: Ring Race
+    people: 4, 5, 6
+    speed: 5
+    time: 15
+    description: "2-4 groups. Coach throws rings. On 'GO', 1-2 from each group sprint to ring, retrieve, pass to teammate on way back, all apnea. Escalate: 2, then 3, then 4 people per group per round."
+    tips: "Awareness exercise — figure out who goes, who retrieves, who receives, who rests, all in brief windows. Add floating objects for variety. Coach keeps score."
+  - name: 30 Seconds Hold
+    people: 2, 3
+    speed: 5
+    time: 15
+    description: "Buddy pair or group of 3. Sprint 2 lengths on surface, then candle blows, empty/partial lung hold at pool edge up to 30 sec. First round buddy counts UP. After that, add 2 sec and count DOWN. Swap roles each round."
+    tips: "To make harder, sprint faster. If making 30 sec every time, not trying hard enough. Empty lung is safer — first thing you do is breathe in. Face out of water prevents dive reflex, making hold harder. High CO2 makes blackout unlikely — only exercise you can safely push holds."
+  - name: Circle/Ring of love (1 min hold)
+    people: 4, 5, 6
+    speed: 5
+    time: 20
+    description: "Group of 4-6. Pick 0-10 press-ups. Sprint 2 lengths surface with press-ups between. Form circle holding hands, float, 1 min full lung hold. Squeeze hands around circle for safety signal — keep going even if you surface. Coach calls end at 1 min. Repeat 4-5 times."
+    tips: "Aim for everyone to reach 45-55 sec — not make the full minute. Adjust: fins, fewer press-ups, shorter swim to make easier; sprint faster, butterfly, more press-ups to make harder. It's about AWARENESS — learn what adjustments you need each round."
+  - name: Towing
+    people: 6, 7, 8
+    speed: 4
+    time: 20
+    description: "Group of 6-8. 'Princess' holds rope middle, eyes closed, floats and does nothing. 2 towers tow her sub-surface one length. At far end, 2 new towers dive forward to take over rope — Princess turns naturally. Continue till Princess lets go. Next Princess must have been breathing up."
+    tips: "3 goals: 1) Princess gets in zone/relaxed. 2) Sled diving practice — same sensation minus equalisation. 3) Towers must swim properly with big powerful kicks, in line with each other. 8 people is ideal — one always breathing up."
+  - name: Wheelbarrow
+    people: 2
+    speed: 4
+    time: 10
+    description: "Buddy pair. Diver 1 holds Diver 2's legs and pushes them apnea to other end. Swap and return. Variations: no fins, DNF kicks, doubles, 2 people pushing 1 diver."
+    tips: ""
+  - name: Hare and Tortoise
+    people: 4, 5, 6
+    speed: 4
+    time: 15
+    description: "Group of 4-6. Tortoise (4 people) leaves first as a slow chain, fins-to-hands, swimming sub-surface. Hare launches as last tortoise leaves, sprints to overtake entire tortoise. At far end, hare becomes tortoise head, last tortoise becomes new hare. Repeat."
+    tips: "Quick turn-arounds. Ex-hare swims slowly after sprinting — that's the point. Step up: do it without fins."
+  - name: Carnage Relay
+    speed: 5
+    time: 20
+    description: "3-5 groups of 4-5, each in own lane. One person per group on deep end. Object held = cue to swim apnea to other end, pass object to next group. Groups pass A→B→C→A in L-shape pattern. Start with 1 object per group, add more if too slow."
+    tips: "Use varied objects: gems, spoons, neck weights, floats, invisible. Awareness of breath-up timing impact is the lesson — making the length is not what matters. Sometimes you go when not ready — that's the exercise."
+  - name: Snap
+    people: 6
+    speed: 5
+    time: 15
+    description: "2 groups of 6, waterproof card packs. Pairs play Snap on poolside. On 'Snap!', sprint a length underwater, turn, sprint back on surface — all in one breath. Second pair starts as first returns on surface. V2: double underwater, no shared lane."
+    tips: "Lactic acid tolerance exercise."
+  - name: Catch Up
+    people: 2
+    speed: 4
+    time: 10
+    description: "Buddy pair. Person 1 swims apnea length. When halfway, Person 2 sprints on surface to catch up. At end, swap: Person 2 swims apnea, Person 1 catches up. Short break, then swap who goes first."
+    tips: ""
+  - name: "Egg & Spoon, Kitchen brush"
+    speed: 4
+    time: 20
+    description: "2-4 groups of 4-5. Egg&Spoon: swim apnea holding spoon upside down trapping ping pong ball underneath. Pass to teammate at end. Kitchen brushes: walk on hands using 2 kitchen brushes as walking sticks with suction cups. Groups swap games after rounds."
+    tips: "Stereo finning = easy, Mono = hard, DNF = very hard, Spoon in mouth = impossible. Mix in other games like backwards mono finning or stikeez."
+  - name: Stone Paper Scissors
+    people: 2, 3, 4
+    speed: 4
+    time: 15
+    description: "Pairs in groups of 4 per lane. Swim sub-surface playing stone-paper-scissors, keeping score in your head. Compare scores at end. Second pair follows same lane. Change partners every 2 lengths. Variation: 3-4 swimmers at once."
+    tips: "Remembering scores burns oxygen — playing a length is much harder than just swimming it. That's the cognitive loading."
+  - name: Halfway Race
+    speed: 5
+    time: 10
+    description: "Whole group. Coach countdown. Sprint on surface to halfway — first there gets 1 point. Then go underwater and swim as SLOWLY as possible to the end — last person there gets 2 points."
+    tips: ""
+  - name: Ditch and Switch
+    speed: 4
+    time: 15
+    description: "Multiple versions. V1: All go together, ditch fins mid-pool, swim rest without, come back and put fins on underwater. V2-V5: Buddy pairs with increasing complexity — ditch fins for partner to collect, deliver, put on, all in one breath. V5 is a double."
+    tips: ""
+  - name: British Bull Dog
+    speed: 5
+    time: 15
+    description: "Whole group. One bulldog in middle zone between flags. Others start at shallow end, all go underwater together. Cross the danger zone without being caught by bulldog touching your arm. Caught players become bulldogs. Safe zones beyond flag lines. Last uncaught person wins."
+    tips: "Use chaos in the middle to slip through, or wait as bulldogs run out of breath and surface, then cross safely."
+  - name: Velodrome
+    people: 6, 7, 8
+    speed: 5
+    time: 10
+    description: "4 people as corner posts in shallow end, 2-4 swimmers. On countdown, dive and swim clockwise around the square. Catch the swimmer ahead by grabbing their fin — tagged or out of breath = out. Last swimmer wins. Variation: coach claps underwater to reverse direction."
+    tips: ""
+  # Slow exercises
+  - name: Dynamic Double
+    people: 2, 3
+    speed: 2
+    time: 20
+    description: "Group of 3 or pairs. 3 roles rotate: Swimmer (2 min breathup, swim nominal double), Safety (follows on surface), Breather (breathing up next). Swimmer becomes safety, safety starts breathing up, breather swims with 30 sec breathup. Step up: add jiggles."
+    tips: "After every swim, reflect: how you felt, why you stopped, what you'll do differently. Always keep to a double but extend with jiggles at start/end."
+  - name: Dynamic Double Twists
+    people: 2, 3
+    speed: 2
+    time: 40
+    description: "Group of 3 or pairs. Same rotation as Dynamic Double but 5 progressive swims: 1st comfortable distance, 2nd add 2 kicks, 3rd add jiggle at start, 4th add short OXY at start, 5th dial back to 1st distance relaxed."
+    tips: "Takes about 40 minutes. The progression builds awareness of how small changes affect your swim."
+  - name: Dynamic Static
+    people: 2
+    speed: 1
+    time: 15
+    description: "Buddy pairs. Person 1 floats doing static hold. Coach shouts 'tap' every 15 sec, Person 2 taps shoulder, Person 1 does one pathetic DNF arm pull and kick (token movement) then floats back into static. Repeat till Person 1 comes up. Swap."
+    tips: "Practice static with disruptions — real dives aren't perfectly quiet. 3rd round: buddy moves/dunks/rocks the diver. Diver says which movements they like/dislike aloud — speaking it makes it real in the mind."
+  - name: OXY OXY
+    people: 2
+    speed: 2
+    time: 20
+    description: "Buddy pairs. Swimmer decides OXY time and swim length. Short static (OXY), swim, another static (OXY), swim back — all one breath. Safety follows on surface, turns swimmer around for second OXY, counts down (not up). Surface protocol at end."
+    tips: "After each swim, reflect and change the combo — longer OXY/shorter swim or vice versa, introduce doubles with shorter OXY. Do 3 rounds to feel, think, and adjust. Slow exercises risk blackout — safety is essential."
+  - name: Guesstimate Static
+    speed: 1
+    time: 15
+    description: "Whole group. Form circle(s) holding hands. Coach gives target time (e.g. 1 min). On countdown, all hold breath doing static. Come up when you THINK it's the target time. Keep hand-squeeze signal going until last person surfaces. Coach reveals who was closest."
+    tips: "Most dives are over in one minute — good to know what one minute of breath hold feels like."
+  - name: Turn 1
+    people: 3, 4
+    speed: 1
+    time: 10
+    description: "Group of 3-4 per lane. For DNF (no fins). Swim towards wall, pass the T, stretch one arm to wall, other arm opposite direction. Touch wall, flip up and look up, momentum carries you forward, feet land on wall, push off and glide."
+    tips: ""
+  - name: Turn 2
+    people: 3, 4
+    speed: 1
+    time: 10
+    description: "Group of 3-4 per lane. For bi-fins and mono-fins. Swim towards wall, pass T, flip over face up, one arm reaching to wall. Practice 1: touch wall and stand up. Practice 2: touch wall, roll forwards, land feet on wall, push off and glide."
+    tips: "Do practice 1 several times before moving to practice 2."
+  - name: Turn 3
+    people: 3, 4
+    speed: 1
+    time: 10
+    description: "Group of 3-4 per lane. For long fins and mono-fins. Come off black line as you approach wall. One arm touches wall, other hand on floor parallel to wall as pivot. Turn away from wall — DO NOT place feet on wall. Lift one leg/mono fin high behind you. Kick a few times then bring arms forward."
+    tips: "In deep end, same technique but don't touch floor — just reach for it to open chest and start pivoting."
+  - name: Push Off and Glide
+    people: 3, 4
+    speed: 1
+    time: 10
+    description: "Group of 3-4 per lane. No fins. Stand one step from wall, one foot on wall. Drop into water, squat horizontally with feet on wall, push off and glide straight. No bums poking out. After a couple, add one DNF kick, then maybe two."
+    tips: "Key is going absolutely straight and gliding as long as possible."
+  - name: Static Toypedo
+    speed: 1
+    time: 10
+    description: "Whole group. Sit at bottom in a circle, partial breath. Use neck weights/bricks if floaty. Pass toypedo randomly. Run out of breath = come up. Last person down wins."
+    tips: ""
+  - name: Bubble Rings
+    people: 2
+    speed: 1
+    time: 5
+    description: "Buddy pairs, take turns. Go to floor, look up, blow bubble rings by stacking tongue out and withdrawing quickly with a thump noise. Alternative: make fists locked in front of mouth, blow through as you pull fists apart outwards."
+    tips: ""
+  - name: Duck Dive
+    people: 2
+    speed: 1
+    time: 10
+    description: "Buddy pairs. For deep pit. Sink object on floor as target. Line up with face directly above it, duck dive and try to touch target without looking — aim is to go straight down. No finning on surface break. Variations: no fins, with float, face-up."
+    tips: ""
+  - name: "Name & Numbers"
+    people: 2
+    speed: 1
+    time: 15
+    description: "Buddy pairs, deep end or pit. Hold edge face out, candle blows, full exhale. Say names/numbers till can't speak, mouth submerged. Sink to bottom equalising. 4 steps: 1) Basic. 2) Surface unpacking. 3) Advanced unpacking at bottom. 4) Bed time stretch at bottom (once only, never fully empty lungs)."
+    tips: "Beginners: feet first. Advanced: head first. Progress from standing → sitting → lying on bottom. Goal: reach point where you can't equalise, then relax and squeeze one more in. Buddy helps diver surface — empty lungs make you negatively buoyant. Mask off = harder."
+  - name: Dawning Survival
+    speed: 2
+    time: 10
+    description: "Whole group, deep end. Tread water, partial lung hold, sink to bottom (vertical, hands behind back), push off bottom to surface, breathe and straight into partial lung, sink again. Repeat for 30 sec to 1 min or until you stop."
+    tips: ""
+  - name: Gem Game
+    people: 2
+    speed: 2
+    time: 15
+    description: "Teams of 2+, deep pit. Throw gems into water, announce which colour each team retrieves. 2 from each team swim to gem, 1st collects and waits, 2nd arrives, pass gem, both return. First pair back wins. Extend: more divers per team."
+    tips: "Others stay on surface keeping eyes on divers for safety."
+  - name: Circuit Training
+    people: 2, 3
+    speed: 2
+    time: 10
+    description: "Buddy pairs or group of 3, deep end or pit. Take turns: go to floor, handstand with 5 double kicks, swim to slope, 5 double kicks on slope, back to start, handstand 5 double kicks, hands on wall 5 double kicks, surface and breathe."
+    tips: ""
+  - name: OXY Moron
+    people: 2
+    speed: 1
+    time: 10
+    description: "Buddy pairs, end of session only as cool-down. Short static (OXY: 30s/45s/1min) then single apnea swim to deep end. Buddy counts down from 10, double-tap to start. Swimmer completes at deep end. Walk back outside pool — never swim back on surface."
+    tips: "Nice relaxing swim, nothing strenuous. Not making the length = OXY was too long. No doubles allowed — incoming swimmers share the black line. Safety watches deep end at all times."
+  - name: Last Length
+    speed: 1
+    time: 5
+    description: "Whole group, always the final length. Single or double. Doubles only for those at shallow end or newbies trying. Assign safety to each double swimmer — safety follows in apnea but focuses on the double, not their own swim."
+    tips: "For pure joy of holding breath and moving through water. If it's stressful, body won't want to return. If enjoyable, body will want to do it again and again."
+special:
+  - name: Cooper Test
+    people: 2
+    speed: 5
+    time: 12
+    description: "Buddy pairs, no warm-up. 12 min fitness test. Swim 1 length apnea + 1 length surface, repeat as many times as possible. Buddy counts lengths (both apnea and surface). Dynamic recovery — no rest between. Plan every 3 months to track improvement."
+    tips: "Balance apnea speed, return speed, and recovery interval. Go on back 5-10m to recover. Don't start too fast — steady pace. Buddy gives time calls at halfway, 2 min, and 20 sec. Improve by: shorter intervals, steady pace, knowing target pace per length."
+  - name: Speed Static
+    people: 2
+    speed: 3
+    time: 20
+    description: "Buddy pairs. 4 static holds with 2 min breathups between. Hold 1 (up to 1 min): try 3 comms methods (tap, squeeze, hand-hold). Hold 2 (up to 2 min): use preferred method. Hold 3: diver calls own target. Hold 4: change one variable (mask off, hood off, moved). Relaxation is key."
+    tips: "No times or 'PB' language. Adjutant gives constant soft touch, checks OK signal, says 'thank you'. Diver must call what they can do and deliver it — self-assessment, not PBs. End: diver stretches arms, puts feet down, surfaces when ready. Clock runs till face is out."
+  - name: Rescue
+    people: 2
+    speed: 2
+    time: 20
+    description: "Buddy pairs. Learn rescue skills. 1) Surface towing: cup chin with pistol grip, other hand supports head, fin sideways, buddy on hip. 2) Manhandling: buddy on bottom, pick up under arms, carry sub-surface to end. 3) Getting out: pin hands to poolside, exit, grab hands, dip for momentum, yank out."
+    tips: "ALWAYS warn lifeguards before starting. After session, play a game and have random people feign blackout — encourage others to notice and rescue them."
